@@ -1,0 +1,6 @@
+c:\users\cam\documents\visual studio 2013\Projects\PictureHiding\PictureHiding\bin\Debug\PictureHiding.exe.config
+c:\users\cam\documents\visual studio 2013\Projects\PictureHiding\PictureHiding\bin\Debug\PictureHiding.exe
+c:\users\cam\documents\visual studio 2013\Projects\PictureHiding\PictureHiding\bin\Debug\PictureHiding.pdb
+c:\users\cam\documents\visual studio 2013\Projects\PictureHiding\PictureHiding\obj\Debug\PictureHiding.csprojResolveAssemblyReference.cache
+c:\users\cam\documents\visual studio 2013\Projects\PictureHiding\PictureHiding\obj\Debug\PictureHiding.exe
+c:\users\cam\documents\visual studio 2013\Projects\PictureHiding\PictureHiding\obj\Debug\PictureHiding.pdb
